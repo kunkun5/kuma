@@ -1,1 +1,5 @@
 # kuma
+
+GitHubのテスト
+##めんばー
+*testmenber
